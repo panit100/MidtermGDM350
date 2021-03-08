@@ -1,0 +1,5 @@
+No,Name,Speed,Score,LoopSpawn,showText
+1,GreenItem,2,1,0,AddSpeed
+2,YellowItem,0,2,0,Lucky
+3,PinkItem,0,1,2,Bonus
+4,BlackItem,0,1,0,Unlucky
